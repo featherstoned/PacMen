@@ -1,5 +1,5 @@
 # PacMen
-#### Week 7 Module MIT Full Stack Course | Portfolio Ready
+#### Portfolio Ready | Week 7 Module MIT Full Stack Course
 ##### Description: 
 A game with multiple PacMan characters moving randomly on the screen. Velocities and direction are generated randomly when they collide with borders of browser window. Animated by iterating through an array of 4 PacMan images and updates their positions and velocities continuously. New PacMan is added to game by clicking Add PacMan button.
 
