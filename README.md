@@ -12,7 +12,7 @@ I plan to link a stylesheet and add a background color and cool font. Add an "En
 
 ##### License Info
 
-##### MIT
+##### <a href=https://choosealicense.com/licenses/mit/>MIT</a>
 
 Copyright (c) 2023 Xochitl
 
